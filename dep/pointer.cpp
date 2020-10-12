@@ -20,7 +20,7 @@ namespace mp
         std::cout << "Address stored in ip variable: " << ip << std::endl;
 
         // 访问指针中地址的值
-        cout << "Value of *ip variable: " << *ip << endl;
+        std::cout << "Value of *ip variable: " << *ip << std::endl;
     }
 
 } // namespace mp
